@@ -1,4 +1,1 @@
-#some text
-one more text
-change one more text
-additional information
+[https://Taraktes.github.io/rsschool-cv/cv](https://github.com/Taraktes/rsschool-cv/blob/gh-pages/cv.md)
